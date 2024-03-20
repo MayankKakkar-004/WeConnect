@@ -1,7 +1,7 @@
 # WeConnect
 WeConnect- A Video Conferencing App
 
-PPT: [canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://www.canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA)
+PPT: [https:canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://www.canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA)
 
 
 ## Installation
@@ -15,7 +15,7 @@ Before you begin, make sure you have Node.js and npm (Node Package Manager) inst
 ### Clone the Repository
 
 ```bash
-git clone [(https://github.com/Y1K1Sharma/WeConnect.git)](https://github.com/Y1K1Sharma/WeConnect.git)
+git clone (https://github.com/Y1K1Sharma/WeConnect.git)
 ```
 
 ### Navigate to the Project Directory
