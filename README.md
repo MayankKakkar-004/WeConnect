@@ -1,7 +1,7 @@
 # WeConnect
 WeConnect- A Video Conferencing App
 
-PPT:   [https:canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://www.canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA)
+PPT:   [https://canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://www.canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view)
 
 
 ## Installation
