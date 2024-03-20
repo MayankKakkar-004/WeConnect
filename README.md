@@ -3,6 +3,7 @@ WeConnect- A Video Conferencing App
 
 PPT:   [https://canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://www.canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view)
 
+![FlowChart](https://github.com/Y1K1Sharma/WeConnect/blob/main/src/assets/flowchart.png)
 
 ## Installation
 
