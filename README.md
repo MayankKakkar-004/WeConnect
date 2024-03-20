@@ -6,7 +6,7 @@ PPT:   [https:canva.com/design/DAF9NKsa7qU/ZnMkW8_m4zmPy3BfWhcXkA/view](https://
 
 ## Installation
 
-To get started with AICTE Webconnect, follow these simple steps:
+To get started with WeConnect, follow these simple steps:
 
 ### Prerequisites
 
